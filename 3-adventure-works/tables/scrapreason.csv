@@ -1,0 +1,17 @@
+"ScrapReasonID";"Name";"ModifiedDate"
+1;"Brake assembly not as ordered";01/06/1998 00:00:00
+2;"Color incorrect";01/06/1998 00:00:00
+3;"Gouge in metal";01/06/1998 00:00:00
+4;"Drill pattern incorrect";01/06/1998 00:00:00
+5;"Drill size too large";01/06/1998 00:00:00
+6;"Drill size too small";01/06/1998 00:00:00
+7;"Handling damage";01/06/1998 00:00:00
+8;"Paint process failed";01/06/1998 00:00:00
+9;"Primer process failed";01/06/1998 00:00:00
+10;"Seat assembly not as ordered";01/06/1998 00:00:00
+11;"Stress test failed";01/06/1998 00:00:00
+12;"Thermoform temperature too high";01/06/1998 00:00:00
+13;"Thermoform temperature too low";01/06/1998 00:00:00
+14;"Trim length too long";01/06/1998 00:00:00
+15;"Trim length too short";01/06/1998 00:00:00
+16;"Wheel misaligned";01/06/1998 00:00:00
