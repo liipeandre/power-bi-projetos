@@ -1,12 +1,9 @@
-# Projetos de Power BI
+# Power BI Projects
 
-## Autor
+## Author
 
 - André Felipe Pereira dos Santos
 
-## Descrição
+## Description
 
-Este repositório possui:
-
-- Alguns dashboards simples feitos utilizando o Power BI;
-- Os datasets utilizados.
+Some simple dashboards made using Power BI and used datasets.
